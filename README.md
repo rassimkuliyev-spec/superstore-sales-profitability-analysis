@@ -13,6 +13,10 @@ An end-to-end educational analytics project exploring historical Superstore sale
 
 ![Superstore Profitability Analysis](superstore-profitability.png)
 
+### Profit Prediction
+
+![Superstore Profit Prediction](superstore-profit-prediction.png)
+
 ## Questions explored
 
 - How do sales and profit vary by region, product sub-category, and customer segment?
