@@ -9,6 +9,9 @@ An end-to-end educational analytics project exploring historical Superstore sale
 ## Power BI Dashboard
 
 ![Superstore Sales Dashboard](superstore-overview.png)
+### Discounts & Profitability
+
+![Superstore Profitability Analysis](superstore-profitability.png)
 
 ## Questions explored
 
