@@ -6,6 +6,10 @@
 
 An end-to-end educational analytics project exploring historical Superstore sales, profitability, customer and regional performance, discounts, and loss-making products. The Power BI report includes a separate page on linear-regression estimates of historical profit. **The estimates are not a forecast of future sales or profit.**
 
+## Power BI Dashboard
+
+![Superstore Sales Dashboard](superstore-overview.png)
+
 ## Questions explored
 
 - How do sales and profit vary by region, product sub-category, and customer segment?
